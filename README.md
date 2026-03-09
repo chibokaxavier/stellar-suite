@@ -18,9 +18,9 @@
 - **Signing** is built in: interactive prompt, keypair file, VS Code secure storage, or paste a signature from a hardware wallet.
 - **Errors and progress** from the CLI are streamed and parsed so you get clear feedback when something fails.
 
-![Stellar Kit MVP Screenshot](https://github.com/user-attachments/assets/da4063c8-ff36-4e5b-87c2-f17194099098)
+<img width="1440" height="900" alt="Screenshot 2026-03-09 at 12 07 44" src="https://github.com/user-attachments/assets/d4289221-7f6c-4d7f-aa8d-835ec3eaa5fd" />
 
-*Screenshot of the current Stellar Kit MVP. The project and repo were originally released as Stellar Suite; the product is now named Stellar Kit.*
+*Screenshot of the current Stellar Kit Studio MVP. The project and repo were originally released as Stellar Suite; the product is now named Stellar Kit Studio with parent brand retaining Stellar Kit.*
 
 ---
 
